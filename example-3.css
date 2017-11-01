@@ -1,0 +1,61 @@
+h1 {
+  height: 200px;
+  background-color: yellowgreen;
+}
+
+.subtitle {
+  width: 100%;
+  background-color: lightpink;
+}
+
+.box-1 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  color: white;
+  background-color: red;
+}
+
+.box-2 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  color: white;
+  background-color: firebrick;
+}
+
+.box-3 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  color: white;
+  background-color: Gold;
+}
+
+.box-4 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  color: white;
+  background-color: black;
+}
+.box-5 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  color: white;
+  background-color: aquamarine;
+}
+
+.box-6 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  color: white;
+  background-color: purple;
+
+}
+.box-7 {
+  height: 200px;
+  color: grey;
+  background-color: orange;
